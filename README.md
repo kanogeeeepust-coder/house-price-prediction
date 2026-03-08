@@ -47,7 +47,7 @@ The final model is deployed using **Gradio**, allowing users to input housing pa
 
 ### Screenshot
 
-![Gradio Interface](screenshots/gradio_interface.png)
+![Gradio Interface](screenshots/gradio_interface.PNG)
 
 ---
 
